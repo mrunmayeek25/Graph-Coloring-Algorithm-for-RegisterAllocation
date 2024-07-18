@@ -1,10 +1,5 @@
 # Graph-Coloring-Algorithm-for-Register-Allocation 
 
-##Team Members
-- Dhanashree Dharpure ([Dhanshree0802](https://github.com/Dhanshree0802))
-- Mrunmayee Kurhade ([mrunmayeek25](https://github.com/mrunmayeek25))
-- Akshat Shah ([akshatS2003](https://github.com/akshatS2003))
-- Pranav Rathi([pvrPranavRathi](https://github.com/pvrPranavRathi))
 
 When translating a program written in a high-level language (like C or Java) to machine code,the compiler must assign storage locations (registers) to variables. However, a limited number ofregisters are available, and some variables might need to share the same register without causingconflicts. The goal is to efficiently allocate registers for variables in a computer program during compilation using a graph coloring algorithm.
 
